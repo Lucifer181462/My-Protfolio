@@ -1,0 +1,68 @@
+h1{
+    color:(0,0,0);
+    margin-top: 50px;
+    margin-left: 600px;
+    background-color: #8a2be2;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#per1{
+    color:maroon;
+    margin-top: 70px;
+    margin-left: 540px;
+    font-size: 30px;
+    font-style: italic;
+    
+  }
+  
+
+body{
+    background-image:url(https://source.unsplash.com/1600x1200/?anime);
+   
+}
+
+.header{
+    background-color:#8a2be2;
+    color: black;
+    display: flex;
+    text-align: center;
+
+}
+.site-discription{
+display: flex;
+flex-direction: column;
+justify-content: first baseline;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    background-color: dimgrey;
+    margin-bottom: 0px;
+    margin-top: 600px;
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+
+p,h2{
+    text-align: center;
+    
+}
+
+
+
+.btn{
+    margin-top: 600px
+    ;
+    display: flex;
+   
+    justify-content: space-around;
+}
+
+.item{
+    font-style:oblique;
+    font-size: 20px;
+}
